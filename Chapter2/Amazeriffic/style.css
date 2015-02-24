@@ -1,0 +1,50 @@
+body 
+{
+	width: 85%;
+	margin: 0 auto;
+	font-family: helvetica, sans-serif;
+}
+header
+{
+	border-bottom: 1px solid #3B3B3B;
+	padding-bottom: 18px;
+}
+main h3 
+{
+	padding: 0;
+	margin: 0;
+}
+main p
+{
+	margin: .5em 0;
+	color: #333;
+}
+footer
+{
+	border-top:1px solid #353535;
+	margin-top: 20px;
+}
+footer h5
+{
+	font-size: 1em;
+	margin-bottom: 0px
+}
+.contact, .sitemap
+{
+	width:200px;
+	float: left;
+}
+.contact p, .sitemap ul > li > a
+{
+	font-size: .8em;
+}
+.sitemap li
+{
+	list-style-type: none;
+}
+.sitemap ul 
+{
+	font-size: 1em;
+	margin-bottom: 10px;
+	padding-left: 0;
+}
